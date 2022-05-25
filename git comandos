@@ -1,0 +1,18 @@
+COMANDOS GTIHUB
+
+git init-(Iniciar repositorio local)
+
+git remote add origin<servidor>(Associar ao repositorio na nuvem)
+
+git add(nome do arquivo; .extenção; .)-(Transferir para espera)
+
+git commit -m "Nome da Alteração"-(confirmação de alteração)
+
+git push origin master-(upar para nuvem)
+
+git status-(Mostra status)
+
+git diff-(mostra modificações)
+
+git log-(historico dos commit)
+
